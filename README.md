@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://woonabin.github.io/MaribinStudio/images/logo512x256.jpeg" alt="Maribin Studio Logo" width="600" />
+<img src="https://woonabin.github.io/MaribinStudio/images/logo1024x512.jpeg" alt="Maribin Studio Logo" width="600" />
 
 <br><br>
 
@@ -10,7 +10,7 @@
 
 <p>
   <strong>Retro • Pixel Art • Strategy • Unity</strong><br>
-  <em>“갖은 피키어 하나하나에 영혼을 단단.”</em>
+  <em>“작은 픽셀 하나하나에 영혼을 담아.”</em>
 </p>
 
 <p>
@@ -32,24 +32,24 @@
 
 ## 🎝️ About Maribin Studio
 
-마리빈 스툌드디오는 1인 개발자로 운영되는 인디 게임 스툌드디오입니다. 
-최신의 게임 감성을 현대적으로 재페트해 **“작질만 완성도 있는 게임”**을 만들기 위해 노력하고 있습니다.
+마리빈스튜디오는 1인 개발자로 운영되는 인디 게임 스튜디오입니다. 
+최신의 게임 감성을 현대적으로 재해석하여 **“작지만 완성도 있는 게임”**을 만들기 위해 노력하고 있습니다.
 
 ---
 
 ## 🎲 Featured Game — Dice Crusaders (주사위 기사단)
 
 <div align="center">
-  <img src="https://woonabin.github.io/MaribinStudio/images/dice-crusaders-banner.png" alt="Dice Crusaders Banner" width="800" />
+  <img src="https://woonabin.github.io/MaribinStudio/images/ico_main_dc_banner.jpeg" alt="Dice Crusaders Banner" width="800" />
 </div>
 
 <br>
 
-**Dice Crusaders**는 주사위를 구르어 영웅의 운명을 결정하는 전략 RPG입니다. 
-주사위 눈의 조합으로 **스킬**, **크리트리크**, **열계 공격**이 결정되며, 매 판이 예측 불가능하지만 치문한 전략으로 가만합니다.
+**Dice Crusaders**는 배치 + 주사위 눈 조합으로 플레이하게 됩니다.
+주사위 눈의 조합으로 **스킬**, **크리티컬** 등이 결정되며, 이 주사위 눈의 조합을 통한 전략적 플레이가 가능합니다.
 
-- 🎨 피키어 스타일 전투: 클래스트 감성과 현대적 이퍼트의 조합  
-- 🎲 전략적 주사위 스시트업: 선택이 승패를 바로 변한 전투 설계  
+- 🎨 픽셀 스타일 전투: 클래식한 감성과 현대적 이펙트의 조합?
+- 🎲 전략적 주사위 : 주사위 또한 장비화 되어 업그레이드도 할 수 있습니다.
 - 🦒 영웅 클래스: Tank / Knight / Archer / Mage / Healer  
 
 > 📌 [Dice Crusaders 공식 페이지 바로가기](https://woonabin.github.io/MaribinStudio/dice-crusaders.html)

@@ -9,8 +9,8 @@
 <h1>🌯 Maribin Studio 🎮</h1>
 
 <p>
-  <strong>Retro • Pixel Art • Strategy • Unity</strong><br>
-  <em>“작은 픽셀 하나하나에 영혼을 담아.”</em>
+  <strong>Retro • Pixel Art • Unity</strong><br>
+  <em>“픽셀 레트로 게임을 좋아하는. 재미를 곁들인”</em>
 </p>
 
 <p>
@@ -33,7 +33,7 @@
 ## 🎝️ About Maribin Studio
 
 마리빈스튜디오는 1인 개발자로 운영되는 인디 게임 스튜디오입니다. 
-최신의 게임 감성을 현대적으로 재해석하여 **“작지만 완성도 있는 게임”**을 만들기 위해 노력하고 있습니다.
+예전에 재가 했던 재미있는 게임들을 재해석하여 **“작지만 완성도 있는 게임”**을 만들기 위해 노력하고 있습니다.
 
 ---
 
